@@ -1,3 +1,3 @@
 # test
-test repositry for practisng the git comands
+test repositry for practising the git comands
 
